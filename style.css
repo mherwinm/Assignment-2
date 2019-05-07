@@ -1,0 +1,268 @@
+body {
+    font-family: "Arial";
+}
+
+.header {
+    background-color: #ffff00;
+    margin: -20px;
+    padding: 30px;
+}
+
+.page-title {
+    font-family: "Lucida Console";
+    margin-left: 250px;
+    display: inline-block;
+}
+
+.navbar {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.nav-button {
+    font-family: "Lucida Console";
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+
+.gallery {
+    background-color: #efeff5;
+    margin: -20px;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+.lead-content {
+    background-color: white;
+    margin-left: 250px;
+    width: 252px;
+    display: inline-block;
+    border-bottom: 5px solid #b3b3b3;
+    margin-bottom: 30px;
+}
+
+.content {
+    background-color: white;
+    margin-left: 10px;
+    width: 252px;
+    display: inline-block;
+    border-bottom: 5px solid #b3b3b3;
+    margin-bottom: 30px;
+}
+
+.content p, .lead-content p {
+    padding: 20px;
+    margin-top: -10px;
+    font-size: 18px;
+}
+
+.content h5, .lead-content h5 {
+    padding: 20px;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    color: grey;
+}
+
+fieldset {
+    border: none;
+    background-color: #808080;
+    margin: -20px;
+    margin-top: -32px;
+    padding: 30px 30px 50px 30px;
+}
+
+legend {
+    text-align: center;
+    background-color: black;
+    color: Yellow;
+    padding: 25px 80px 25px 80px;  
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.works {
+    margin-left: 236px;
+}
+
+.lead-about-work {
+    display: inline-block;
+    width: 252px;
+}
+
+.about-work {
+    margin-left: 8px;
+    display: inline-block;
+    width: 252px;
+}
+
+.about-work .work-title, .lead-about-work .work-title {
+    color: Yellow;
+    font-weight: bold;
+    font-stretch: semi-expanded;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.about-work p, .lead-about-work p {
+    color: white;
+    padding: 15px;
+    font-stretch: semi-expanded;
+    font-size: 14px;
+}
+
+.about-company {
+    border: 1px solid black;
+    background-color: #efeff5;
+    margin: -20px;
+    margin-top: 10px;
+    padding: 30px;
+    
+}
+
+.comp-profile {
+    display: inline-block;
+    width: 316px;
+    margin-left: 236px;
+}
+
+.comp-profile .about-title, .comp-testimonials .about-title, .comp-blog .about-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    padding: 20px;
+    margin-top: 3px;
+}
+
+.comp-profile p, .comp-testimonials p {
+    padding: 0px 20px 0px 20px;
+    color: black;
+    font-size: 15px;
+}
+
+.comp-testimonials {
+    display: inline-block;
+    margin-left: 30px;
+    width: 316px;
+}
+
+.comp-blog {
+    display: inline-block;
+    width: 316px;
+    margin-left: 30px;
+}
+
+.bl-title {
+    text-decoration: none;
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.bl-date {
+    padding: 0px 20px 0px 20px;
+    color: black;
+    font-size: 15px;
+}
+
+.line {
+    background-color: #ffff00;
+    height: 10px;
+    margin: -20px;
+    border: 1px solid black;
+
+}
+
+.footer-lining {
+    background-color: black;
+    margin: -20px;
+    margin-bottom: 20px;
+}
+
+.newsletter {
+    margin-left: 285px;
+    color: white;
+    width: 500px;
+}
+
+.newsletter p {
+    padding-top: 20px;
+}
+
+.newsletter input {
+    height: 20px;
+}
+
+button {
+    background-color: #ffff00;
+    border-radius: 0px 20px 20px 0px;
+    margin-left: -4px;
+    height: 27px;
+}
+
+.extra {
+    color: white;
+    display: inline-block;
+    margin-top: -500px;
+    margin-left: 800px;
+}
+
+.extra a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #333333;
+    margin: -20px;
+    color: white;
+}
+
+.footer-title {
+    font-size: 18px;
+    color: white;
+}
+
+.footer-main {
+    color: white;
+    font-size: 15px;
+}
+
+.alt-buttons {
+    margin-left: 285px;
+    display: inline-block;
+    width: 100px;
+
+}
+.alt-buttons a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.social-network-buttons {
+    width: 280px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.location {
+    width: 250px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.widget {
+    width: 250px;
+    display: inline-block;
+}
+
+.footer-end {
+    margin-left: 285px;
+    display: inline-block;
+    color: gray;
+    font-size: 14px;
+}
